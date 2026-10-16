@@ -1,6 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import './App';
 import Child from './Child';
 import ChildFuncComp from './ChildFuncComp';
 import ChildFuncCompUsingType from './ChildFuncCompUsingType';
